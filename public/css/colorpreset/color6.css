@@ -1,0 +1,59 @@
+/* 
+    Color Code: #95ab63
+*/
+.topBar,.logoImg,.sbe1,.sbe2,.sbe3,.eventTab .panel-title a span:before,
+.eventTab .panel-title a:after,.moreItem a,.tCSEDate:after,.sintleTimeLeft,
+.eventTab .panel-title a.collapsed:before,.sintleTimeRight {
+    background: #95ab63;
+}
+.logo h1 a:hover,.sCItem p span,.tCSEving p a,.sintleTimeLeft .partyDate,.conInfoItem i,#backTo:hover,
+#fSubscribeForm button[type="submit"],.sintleTimeRight .partyDateRight,.design,.proHead,.searchDiv a:hover,
+.subscrib .subs1 span,.subscrib .subs2{
+    color: #95ab63;
+}
+.sectionTitle h1 span:before, .sectionTitle h1 span:after,
+.sectionTitle.blueBorder h1 span:before, .sectionTitle.blueBorder h1 span:after,
+#subscribForm input[type="email"]{
+    border-color: #95ab63;
+}
+/*need to change for every page*/
+.sintleTimeLeft p,.sintleTimeRight p{
+    color: #dae8bb;   
+}
+.partibutton1, .partibutton2{
+    background: #aabc82;
+}
+.partibutton1 i,
+.partibutton2 i{
+    background: #bbc99b;
+}
+#subscribForm input[type="submit"] {
+  background: url("../../images/bg/color6.png") no-repeat scroll left center rgba(0, 0, 0, 0);
+}
+.mainMenu > ul > li > ul.subMenu {
+  background: none repeat scroll 0 0 #181818;
+  border-top: 4px solid #424242;
+}
+ul.subMenu li {
+  border-bottom: 1px solid #424242;
+}
+ul.subMenu li a {
+  color: #969696;
+}
+ul.subMenu > li > ul.subMenu{
+    background: #181818;
+}
+
+.sintleTimeLeft .timeThumb:before{
+    border-left-color: #95ab63;
+}
+.sintleTimeRight .timeThumbr:before{
+    border-right-color: #95ab63;
+}
+#switch,.presetsArea h4{
+    background: #95ab63;
+}
+
+.nicescroll-cursors{
+    background-color: #95ab63 !important;
+}

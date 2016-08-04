@@ -1,0 +1,53 @@
+/* 
+    Color Code: #7A52AB 
+*/
+.topBar.lightVer,.lightVer .logoImg,.h3bannerCont a,.banTttl,#bxThmb a.active,.artiPost > a,.singleViewVideo .sVDate,.fashHover h2:after,.evetnPost > a,
+.h3contTttl h2,#contactFrom input[type="submit"],.podStat span.pull-right:hover,.freeShipPromo,.hoverDetails > a,.topBar.home2,.logo.home2 .logoImg,.getBtn,.featureIcon,
+.subForm input[type="submit"],.testiContent,.needContent a,.datepicker td.active,.eventTable thead tr th,tr.activeMonth td.active span,.podBtnGroup button:hover,
+.datepicker td.active:hover ,.datepicker td.active:hover,.datepicker td.active:hover:hover,.irs-slider,.irs-bar,.roundIn,.errorNotice,
+.mainTab .nav > li > a:hover, .nav > li > a:focus,.presetsArea.lights h4,.lights a#switch,.presetsArea.home2 #switch,.presetsArea.home2 h4,
+.datepicker td.active:focus,.sortingSelect .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus,.podBtnGroup input,.commentForm input[type="submit"]:hover,
+.mainTab .nav-tabs > li.active > a, .mainTab .nav-tabs > li.active > a:hover, .mainTab .nav-tabs > li.active > a:focus,.defaultBtn a,.cartRemove a:hover,
+.datepicker td.active:hover:focus,.datepicker td.active:active,.datepicker td.active:hover:active,.datepicker td.active.active,.datepicker td.active:hover.active,
+.datepicker td.active.disabled,.datepicker td.active:hover.disabled,.datepicker td.active[disabled],.datepicker td.active:hover[disabled]
+.widget.home2 .logoImg,.widget.home2 .logoImg,.eventCalForm form input[type="submit"],.datepicker thead tr:first-child th,
+.promoArti > a,#blogAuthors .carousel-indicators li.active,#popPhotos .carousel-indicators li.active,.sBigPhoto .sBDate,.sale,.podStat span.pull-left,.busket,
+.footer.lightVer .logoImg,.sidebar .widgetTitle:before,.sidebar .widget ul li a:before,#popvideos .carousel-indicators li.active,.podMeta ul li a:hover
+{
+    background: #7A52AB;
+}
+.logo.lightVer h1 a:hover,.lightVer .mainMenu ul li.active > a,.userNameImg p a:hover,.commentShare ul li a:hover,.commentCount h5 a:hover,.evetnPost h5 a:hover,
+.sVHover a i,.promoArti ul li a:hover i, .promoArti ul li a:hover span,.promoArti.two p a:hover,.promoArti.two p a:hover,.fashHover ul li a:hover i,
+.shopNav ul li.active a,.podMeta h5 a:hover,.promoArti h5 a:hover,.hoverDetails h4 a:hover,.lightVer #backTo:hover,.lightVer .searchDiv a:hover,.header.home2 .searchDiv a:hover,
+.fashHover ul li a:hover span,.promoArti p.cateGor a:hover,.logo.home2 h1 a:hover,.home2.logo h1 a:hover span,.header.home2 .mainMenu ul li.active > a, 
+.owl-buttons .owl-next:hover:after,.owl-buttons .owl-prev:hover:before,.eventPageMenu li a:hover, .eventPageMenu li.active a,.prePost a:hover, .nextPost a:hover,
+.promoContent p a,.widget.home2 .logo h1 a:hover,#fSubscribeForm.home2 button[type="submit"],.evntViews li a:hover i, .evntViews li a:hover span,
+.header.home2 .mainMenu ul.subMenu li a:hover,
+.knowDetails ul li:before,#gellarySlide .carousel-control:hover,.evetnPost p.cateGor a:hover,.eventTable tbody tr td h5 a:hover,.podRatings .fa-star,
+.header.home2 .mainMenu ul li:hover > a,.evetnPost ul li a:hover i, .evetnPost ul li a:hover span,.evnDatLoc .cateGor a:hover,.heading404,.artiPost h4 a:hover,
+.singleDiscussed a:hover,.pVdesc a:hover,.pPopDes a:hover,.singleConInfo p a,.contriContent h4 a,.mainPagi li.active a,.mainPagi li a:hover,
+.lightVer .mainMenu ul li:hover > a,.singleTrending a:hover,.singleComment a:hover,.authorDetails a:hover,.shopNav ul li a:focus, .shopNav ul li a:hover,
+.singleConInfo i,.sBHover a i,.sBHover a:hover,.navigations a:hover, .navigations span:hover, .navigations span.current,.shopCate.two h3 span,
+.footer.lightVer .logo h1 a:hover,.footer.lightVer #fSubscribeForm button[type="submit"]
+{
+    color: #7A52AB;
+}
+.h3contTttl,#bxThmb a.active,.eventContTtl,.sizeSet li.active, .sizeSet li:hover, .colorSet li.active, .colorSet li:hover,
+.mainTab .nav > li > a:hover, .nav > li > a:focus,
+.mainTab .nav-tabs > li.active > a, .mainTab .nav-tabs > li.active > a:hover, .mainTab .nav-tabs > li.active > a:focus,
+.mainTab .nav-tabs{
+    border-color: #7A52AB;
+}
+#bxThmb a.active:before{
+    border-right-color: #7A52AB;
+}
+.subScribe .overlay{
+    background: #7A52AB;
+    opacity: .85;
+}
+.nicescroll-cursors{
+    background-color: #7A52AB !important;
+}
+.hmLight .nicescroll-cursors{
+    background-color: #7A52AB !important;
+}

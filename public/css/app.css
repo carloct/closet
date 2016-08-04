@@ -1,0 +1,12 @@
+#header {
+	border-top: 3px solid #d94462;
+	margin-bottom: 35px;
+}
+
+#addItemForm {
+	text-align: right;
+}
+
+#contactFrom input[type="submit"] {
+	height: 50px;
+}

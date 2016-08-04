@@ -1,0 +1,14 @@
+
+.mainMenu > ul > li > ul.subMenu {
+  background: none repeat scroll 0 0 #181818;
+  border-top: 4px solid #424242;
+}
+ul.subMenu li {
+  border-bottom: 1px solid #424242;
+}
+ul.subMenu li a {
+  color: #969696;
+}
+ul.subMenu > li > ul.subMenu{
+    background: #181818;
+}

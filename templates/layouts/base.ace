@@ -1,0 +1,39 @@
+= doctype html
+html lang=en
+  head
+    link rel=stylesheet type=text/css href=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+    link rel=stylesheet type=text/css href=/public/css/preset.css
+    link rel=stylesheet type=text/css href=/public/css/style.css
+    link rel=stylesheet type=text/css href=/public/css/app.css
+    script src=https://code.jquery.com/jquery-2.2.4.min.js
+    script src=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+    title Hello World
+  body
+    section#header.header.lightVer
+      .container
+        .row
+          .col-lg-3
+            .logo.lightVer
+              .logoImg
+                img src=public/images/logoStar.png
+              h1
+                a href=/ Rumors
+          .col-lg-9.col-sm-11.widthFix
+          .col-lg-3.col-sm-1.searchHidden
+
+    section.h3Content
+      .container
+        .row
+          .col-lg-9.col-sm-8.col-xs-12
+            #contactFrom.addItemFormWrapper
+              form#addItemForm method=post action=/add
+                input#item_link.required type=text name=item_link placeholder=Url
+                input#btnItemSubmit type=submit value=Add 
+          .col-lg-3.col-sm-4.col-xs-12
+            .sidebar
+              aside.widget
+                h3.widgetTitle Title
+                ul
+                  li
+                    a href=test.html option1
+    = yield main

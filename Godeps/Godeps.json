@@ -1,0 +1,22 @@
+{
+	"ImportPath": "github.com/carloct/slcloset",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.2-194-g7ebe0a5",
+			"Rev": "7ebe0a500653eeb1859664bed5e48dec1e164e73"
+		},
+		{
+			"ImportPath": "github.com/jmoiron/sqlx",
+			"Comment": "sqlx-v1.1-73-g7396209",
+			"Rev": "7396209bbeada6a4fcc28aa9408f89b2e71cac39"
+		},
+		{
+			"ImportPath": "github.com/jmoiron/sqlx/reflectx",
+			"Comment": "sqlx-v1.1-73-g7396209",
+			"Rev": "7396209bbeada6a4fcc28aa9408f89b2e71cac39"
+		}
+	]
+}
